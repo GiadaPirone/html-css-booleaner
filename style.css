@@ -17,3 +17,19 @@
 #theboleaner{
     color: rgb(0, 174, 255);
 }
+
+.thead{
+    background-color: rgb(31, 108, 223);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.tr1{
+    background-color: rgb(83, 154, 172);
+}
+
+.riga{
+    width: 25%;
+}
